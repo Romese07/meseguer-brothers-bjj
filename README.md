@@ -120,7 +120,8 @@
             height: 100vh;
             background: 
                 linear-gradient(rgba(10, 10, 10, 0.7), rgba(10, 10, 10, 0.9)),
-                url('logo_circulo_rojo_y_negro.jpg') center/cover no-repeat;
+                url('logo_circulo_rojo_y_<img width="1024" height="1536" alt="logo_circulo_rojo_y_negro jpg" src="https://github.com/user-attachments/assets/a4a85d96-9347-4fa5-8d90-2bea5f0d9271" />
+negro.jpg') center/cover no-repeat;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -699,7 +700,8 @@
 <header class="header">
     <div class="container header-container">
         <div class="logo">
-            <img src="logo_circulo_rojo_y_negro.jpg" alt="Meseguer Brothers JiuJitsu" class="logo-img">
+            <img src="<img width="1024" height="1536" alt="logo_circulo_rojo_y_negro jpg" src="https://github.com/user-attachments/assets/5bbd4d45-0fe6-4496-ba8c-71a3cba5bd0f" />
+" alt="Meseguer Brothers JiuJitsu" class="logo-img">
             <div class="logo-text">MESEGUER BROTHERS</div>
         </div>
         <nav class="nav-links">
@@ -743,7 +745,8 @@
                 <p>Mi objetivo es transmitir los valores del JiuJitsu a las nuevas generaciones mientras continúo mi desarrollo como competidor y artista marcial.</p>
             </div>
             <div class="profile-photo">
-                <img src="roman_perfil_exagerado.jpg" alt="Román Meseguer - Instructor de JiuJitsu">
+                <img src="![roman_perfil_exagerado jpg](https://github.com/user-attachments/assets/cef31cb3-d8f9-4cc0-acb3-41c4349a0ced)
+" alt="Román Meseguer - Instructor de JiuJitsu">
             </div>
         </div>
     </div>
@@ -969,29 +972,5 @@
 
 </body>
 </html>
-# Meseguer Brothers JiuJitsu
 
-Sitio web oficial de Román Meseguer - Instructor de JiuJitsu, competidor y cinturón morado.
-
-## Sobre el proyecto
-
-Landing page profesional para Meseguer Brothers JiuJitsu, mostrando:
-- Perfil del instructor
-- Trayectoria marcial
-- Horarios de clases
-- Información de contacto
-
-## Tecnologías utilizadas
-
-- HTML5
-- CSS3
-- Font Awesome
-- Google Fonts
-
-## En vivo
-
-El sitio está desplegado en: [https://TU_USUARIO.github.io/meseguer-brothers-bjj](https://TU_USUARIO.github.io/meseguer-brothers-bjj)
-
-<img width="1024" height="1536" alt="logo_circulo_rojo_y_negro jpg" src="https://github.com/user-attachments/assets/09355b99-d148-4e2f-a104-cba6e6abe0a3" />
-![roman_perfil_exagerado jpg](https://github.com/user-attachments/assets/456e0192-17ea-44dd-a5b2-7075489ceab5)
 
