@@ -991,3 +991,7 @@ Landing page profesional para Meseguer Brothers JiuJitsu, mostrando:
 ## En vivo
 
 El sitio está desplegado en: [https://TU_USUARIO.github.io/meseguer-brothers-bjj](https://TU_USUARIO.github.io/meseguer-brothers-bjj)
+
+<img width="1024" height="1536" alt="logo_circulo_rojo_y_negro jpg" src="https://github.com/user-attachments/assets/09355b99-d148-4e2f-a104-cba6e6abe0a3" />
+![roman_perfil_exagerado jpg](https://github.com/user-attachments/assets/456e0192-17ea-44dd-a5b2-7075489ceab5)
+
